@@ -9,4 +9,5 @@ In the beginning , I used RSelenium to scrape the Google Play Store reviews for 
 
 The main libraries that I will use to do this analysis are udpipe for applying the language model used to develop part of speech tagging, BTM to construct the Biterm model, and textrank / wordcloud to do keyword extraction and make the wordcloud. Both udpipe, BTM, and textrank are part of the Bnosac NLP ecosystem.
 
-The codeset is attached in the .docx file in this repository
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
